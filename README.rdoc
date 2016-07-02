@@ -13,7 +13,7 @@ Summary:
 
 How to use:
  Simply click the following link: 
-http://caadress.appspot.com/
+http://iplocator-1340.appspot.com/
  Next enter an IP address
  Then click the Submit button
  The country location and country flag of the IP address should be displayed on the next page
